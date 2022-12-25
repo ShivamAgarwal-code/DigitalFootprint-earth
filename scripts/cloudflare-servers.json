@@ -1,0 +1,952 @@
+[
+  {
+    "place": "Ashburn,US",
+    "lon": "-77.50210",
+    "lat": "39.02021"
+  },
+  {
+    "place": "Atlanta,US",
+    "lon": "-84.39015",
+    "lat": "33.77729"
+  },
+  {
+    "place": "Boston,US",
+    "lon": "-71.09020",
+    "lat": "42.33106"
+  },
+  {
+    "place": "Calgary,CA",
+    "lon": "-114.07198",
+    "lat": "51.03866"
+  },
+  {
+    "place": "Charlotte,US",
+    "lon": "-80.80483",
+    "lat": "35.19317"
+  },
+  {
+    "place": "Chicago,US",
+    "lon": "-87.68808",
+    "lat": "41.85013"
+  },
+  {
+    "place": "Columbus,US",
+    "lon": "-114.18702",
+    "lat": "48.36264"
+  },
+  {
+    "place": "Denver,US",
+    "lon": "-104.98891",
+    "lat": "39.73104"
+  },
+  {
+    "place": "Detroit,US",
+    "lon": "-83.10516",
+    "lat": "42.38895"
+  },
+  {
+    "place": "Honolulu,US",
+    "lon": "-157.83411",
+    "lat": "21.31158"
+  },
+  {
+    "place": "Indianapolis,US",
+    "lon": "-86.11386",
+    "lat": "39.80195"
+  },
+  {
+    "place": "Jacksonville,US",
+    "lon": "-81.64367",
+    "lat": "30.30561"
+  },
+  {
+    "place": "City,US",
+    "lon": "-82.05808",
+    "lat": "41.31633"
+  },
+  {
+    "place": "Vegas,US",
+    "lon": "-82.08338",
+    "lat": "41.44115"
+  },
+  {
+    "place": "Angeles,US",
+    "lon": "-103.96996",
+    "lat": "31.88974"
+  },
+  {
+    "place": "Mcallen,US",
+    "lon": "-98.24236",
+    "lat": "26.23067"
+  },
+  {
+    "place": "Memphis,US",
+    "lon": "-89.93794",
+    "lat": "35.11777"
+  },
+  {
+    "place": "Miami,US",
+    "lon": "-80.28966",
+    "lat": "25.76849"
+  },
+  {
+    "place": "Minneapolis,US",
+    "lon": "-93.26570",
+    "lat": "45.01631"
+  },
+  {
+    "place": "Montgomery,US",
+    "lon": "-86.24848",
+    "lat": "32.35083"
+  },
+  {
+    "place": "Nashville,US",
+    "lon": "-86.78389",
+    "lat": "36.14014"
+  },
+  {
+    "place": "Newark,US",
+    "lon": "-73.64305",
+    "lat": "40.82815"
+  },
+  {
+    "place": "Norfolk,US",
+    "lon": "-76.25394",
+    "lat": "36.88942"
+  },
+  {
+    "place": "Omaha,US",
+    "lon": "-96.05056",
+    "lat": "41.24040"
+  },
+  {
+    "place": "Ottawa,CA",
+    "lon": "-75.70531",
+    "lat": "45.35917"
+  },
+  {
+    "place": "Philadelphia,US",
+    "lon": "-75.13603",
+    "lat": "40.00156"
+  },
+  {
+    "place": "Phoenix,US",
+    "lon": "-112.08976",
+    "lat": "33.53272"
+  },
+  {
+    "place": "Pittsburgh,US",
+    "lon": "-94.71301",
+    "lat": "37.41923"
+  },
+  {
+    "place": "Portland,US",
+    "lon": "-87.68112",
+    "lat": "41.65975"
+  },
+  {
+    "place": "Richmond,US",
+    "lon": "-77.48087",
+    "lat": "37.52162"
+  },
+  {
+    "place": "Sacramento,US",
+    "lon": "-121.44347",
+    "lat": "38.54382"
+  },
+  {
+    "place": "City,US",
+    "lon": "-82.05808",
+    "lat": "41.31633"
+  },
+  {
+    "place": "Jose,US",
+    "lon": "-82.16029",
+    "lat": "41.42950"
+  },
+  {
+    "place": "Saskatoon,CA",
+    "lon": "-106.64854",
+    "lat": "52.10830"
+  },
+  {
+    "place": "Seattle,US",
+    "lon": "-122.33279",
+    "lat": "47.62405"
+  },
+  {
+    "place": "Louis,US",
+    "lon": "-82.18145",
+    "lat": "41.43891"
+  },
+  {
+    "place": "Tallahassee,US",
+    "lon": "-84.26414",
+    "lat": "30.47184"
+  },
+  {
+    "place": "Toronto,CA",
+    "lon": "-79.41946",
+    "lat": "43.70638"
+  },
+  {
+    "place": "Vancouver,CA",
+    "lon": "-123.10299",
+    "lat": "49.24847"
+  },
+  {
+    "place": "Americana,BR",
+    "lon": "-47.31570",
+    "lat": "-22.73605"
+  },
+  {
+    "place": "Arica,CL",
+    "lon": "-70.29457",
+    "lat": "-18.47067"
+  },
+  {
+    "place": "Asuncion,PY",
+    "lon": "-57.61984",
+    "lat": "-25.31668"
+  },
+  {
+    "place": "Horizonte,BR",
+    "lon": "-38.49004",
+    "lat": "-4.10277"
+  },
+  {
+    "place": "Bogota,CO",
+    "lon": "-74.11439",
+    "lat": "4.60769"
+  },
+  {
+    "place": "Campinas,BR",
+    "lon": "-47.07736",
+    "lat": "-22.91405"
+  },
+  {
+    "place": "Cordoba,AR",
+    "lon": "-64.20333",
+    "lat": "-31.38399"
+  },
+  {
+    "place": "Curitiba,BR",
+    "lon": "-49.27440",
+    "lat": "-25.46908"
+  },
+  {
+    "place": "Fortaleza,BR",
+    "lon": "-38.55182",
+    "lat": "-3.77363"
+  },
+  {
+    "place": "Guayaquil,EC",
+    "lon": "-79.91730",
+    "lat": "-2.17411"
+  },
+  {
+    "place": "Lima,PE",
+    "lon": "-77.03397",
+    "lat": "-12.04946"
+  },
+  {
+    "place": "Alegre,BR",
+    "lon": "-41.53465",
+    "lat": "-20.75253"
+  },
+  {
+    "place": "Quito,EC",
+    "lon": "-78.50881",
+    "lat": "-0.21232"
+  },
+  {
+    "place": "Salvador,BR",
+    "lon": "-38.45508",
+    "lat": "-12.93512"
+  },
+  {
+    "place": "Sorocaba,BR",
+    "lon": "-47.46873",
+    "lat": "-23.49214"
+  },
+  {
+    "place": "Tegucigalpa,HN",
+    "lon": "-87.20185",
+    "lat": "14.08474"
+  },
+  {
+    "place": "Algiers,DZ",
+    "lon": "3.06399",
+    "lat": "36.78163"
+  },
+  {
+    "place": "Antananarivo,MG",
+    "lon": "47.52670",
+    "lat": "-18.90524"
+  },
+  {
+    "place": "Town,ZA",
+    "lon": "28.06352",
+    "lat": "-26.20582"
+  },
+  {
+    "place": "Casablanca,MA",
+    "lon": "-7.62483",
+    "lat": "33.58457"
+  },
+  {
+    "place": "Dakar,SN",
+    "lon": "-17.45079",
+    "lat": "14.70801"
+  },
+  {
+    "place": "Djibouti,DJ",
+    "lon": "43.13305",
+    "lat": "11.58416"
+  },
+  {
+    "place": "Durban,ZA",
+    "lon": "30.98193",
+    "lat": "-29.86963"
+  },
+  {
+    "place": "Johannesburg,ZA",
+    "lon": "28.03239",
+    "lat": "-26.22081"
+  },
+  {
+    "place": "Kigali,RW",
+    "lon": "30.09186",
+    "lat": "-1.95360"
+  },
+  {
+    "place": "Lagos,NG",
+    "lon": "3.37709",
+    "lat": "6.48937"
+  },
+  {
+    "place": "Luanda,AO",
+    "lon": "13.23543",
+    "lat": "-8.85853"
+  },
+  {
+    "place": "Maputo,MZ",
+    "lon": "32.58709",
+    "lat": "-25.93607"
+  },
+  {
+    "place": "Mombasa,KE",
+    "lon": "39.66644",
+    "lat": "-4.04549"
+  },
+  {
+    "place": "Monrovia,LR",
+    "lon": "-10.78209",
+    "lat": "6.31431"
+  },
+  {
+    "place": "Nairobi,KE",
+    "lon": "36.81178",
+    "lat": "-1.27467"
+  },
+  {
+    "place": "Tunis,TN",
+    "lon": "10.16364",
+    "lat": "36.81663"
+  },
+  {
+    "place": "Amsterdam,NL",
+    "lon": "4.89668",
+    "lat": "52.36053"
+  },
+  {
+    "place": "Athens,GR",
+    "lon": "23.72062",
+    "lat": "37.99231"
+  },
+  {
+    "place": "Barcelona,ES",
+    "lon": "2.15379",
+    "lat": "41.40359"
+  },
+  {
+    "place": "Belgrade,RS",
+    "lon": "20.46957",
+    "lat": "44.78169"
+  },
+  {
+    "place": "Berlin,DE",
+    "lon": "13.40479",
+    "lat": "52.50143"
+  },
+  {
+    "place": "Brussels,BE",
+    "lon": "4.36986",
+    "lat": "50.85107"
+  },
+  {
+    "place": "Bucharest,RO",
+    "lon": "26.09501",
+    "lat": "44.43817"
+  },
+  {
+    "place": "Budapest,HU",
+    "lon": "19.04588",
+    "lat": "47.49622"
+  },
+  {
+    "place": "Cork,IE",
+    "lon": "-8.46701",
+    "lat": "51.89316"
+  },
+  {
+    "place": "Edinburgh,GB",
+    "lon": "-3.20399",
+    "lat": "55.94092"
+  },
+  {
+    "place": "Frankfurt,DE",
+    "lon": "8.65399",
+    "lat": "50.12581"
+  },
+  {
+    "place": "Geneva,CH",
+    "lon": "6.14231",
+    "lat": "46.20472"
+  },
+  {
+    "place": "Gothenburg,SE",
+    "lon": "11.97377",
+    "lat": "57.68877"
+  },
+  {
+    "place": "Hamburg,DE",
+    "lon": "10.00985",
+    "lat": "53.56401"
+  },
+  {
+    "place": "Helsinki,FI",
+    "lon": "24.96935",
+    "lat": "60.21673"
+  },
+  {
+    "place": "Istanbul,TR",
+    "lon": "28.99392",
+    "lat": "41.02935"
+  },
+  {
+    "place": "Kyiv,UA",
+    "lon": "30.51313",
+    "lat": "50.44676"
+  },
+  {
+    "place": "Lisbon,PT",
+    "lon": "-9.15188",
+    "lat": "38.74422"
+  },
+  {
+    "place": "London,GB",
+    "lon": "-0.11214",
+    "lat": "51.51753"
+  },
+  {
+    "place": "Madrid,ES",
+    "lon": "-3.67930",
+    "lat": "40.42955"
+  },
+  {
+    "place": "Manchester,GB",
+    "lon": "-2.26554",
+    "lat": "53.47953"
+  },
+  {
+    "place": "Milan,IT",
+    "lon": "9.17984",
+    "lat": "45.47474"
+  },
+  {
+    "place": "Munich,DE",
+    "lon": "11.63660",
+    "lat": "48.14080"
+  },
+  {
+    "place": "Nicosia,CY",
+    "lon": "33.35864",
+    "lat": "35.18386"
+  },
+  {
+    "place": "Oslo,NO",
+    "lon": "10.77569",
+    "lat": "59.91694"
+  },
+  {
+    "place": "Palermo,IT",
+    "lon": "13.34249",
+    "lat": "38.13122"
+  },
+  {
+    "place": "Paris,FR",
+    "lon": "2.34280",
+    "lat": "48.85756"
+  },
+  {
+    "place": "Prague,CZ",
+    "lon": "14.44428",
+    "lat": "50.07658"
+  },
+  {
+    "place": "Riga,LV",
+    "lon": "24.12363",
+    "lat": "56.95623"
+  },
+  {
+    "place": "Rome,IT",
+    "lon": "12.48634",
+    "lat": "41.87839"
+  },
+  {
+    "place": "Sofia,BG",
+    "lon": "23.35924",
+    "lat": "42.77026"
+  },
+  {
+    "place": "Stockholm,SE",
+    "lon": "18.04879",
+    "lat": "59.33096"
+  },
+  {
+    "place": "Tallinn,EE",
+    "lon": "24.71607",
+    "lat": "59.39166"
+  },
+  {
+    "place": "Thessaloniki,GR",
+    "lon": "22.93621",
+    "lat": "40.65232"
+  },
+  {
+    "place": "Vienna,AT",
+    "lon": "16.37136",
+    "lat": "48.19231"
+  },
+  {
+    "place": "Vilnius,LT",
+    "lon": "25.29398",
+    "lat": "54.70365"
+  },
+  {
+    "place": "Warsaw,PL",
+    "lon": "21.23400",
+    "lat": "52.21890"
+  },
+  {
+    "place": "Zagreb,HR",
+    "lon": "15.97613",
+    "lat": "45.81763"
+  },
+  {
+    "place": "Amman,JO",
+    "lon": "35.90414",
+    "lat": "31.95436"
+  },
+  {
+    "place": "Baghdad,IQ",
+    "lon": "44.39915",
+    "lat": "33.32494"
+  },
+  {
+    "place": "Beirut,LB",
+    "lon": "35.53858",
+    "lat": "33.87589"
+  },
+  {
+    "place": "Dammam,SA",
+    "lon": "50.10035",
+    "lat": "26.40148"
+  },
+  {
+    "place": "Doha,QA",
+    "lon": "51.51495",
+    "lat": "25.29757"
+  },
+  {
+    "place": "Dubai,AE",
+    "lon": "55.19848",
+    "lat": "25.04953"
+  },
+  {
+    "place": "Manama,BH",
+    "lon": "50.57550",
+    "lat": "26.21715"
+  },
+  {
+    "place": "Muscat,OM",
+    "lon": "58.42139",
+    "lat": "23.58366"
+  },
+  {
+    "place": "Riyadh,SA",
+    "lon": "46.73761",
+    "lat": "24.64963"
+  },
+  {
+    "place": "Baku,AZ",
+    "lon": "49.82834",
+    "lat": "40.39283"
+  },
+  {
+    "place": "Bangkok,TH",
+    "lon": "100.49690",
+    "lat": "13.74127"
+  },
+  {
+    "place": "Bengaluru,IN",
+    "lon": "77.57651",
+    "lat": "13.06011"
+  },
+  {
+    "place": "Cagayan,PH",
+    "lon": "121.65993",
+    "lat": "17.99821"
+  },
+  {
+    "place": "Cebu,PH",
+    "lon": "123.96419",
+    "lat": "10.37960"
+  },
+  {
+    "place": "Chennai,IN",
+    "lon": "80.24091",
+    "lat": "13.06841"
+  },
+  {
+    "place": "Chittagong,BD",
+    "lon": "91.81818",
+    "lat": "22.35593"
+  },
+  {
+    "place": "Colombo,LK",
+    "lon": "79.89400",
+    "lat": "6.93476"
+  },
+  {
+    "place": "Dhaka,BD",
+    "lon": "90.39749",
+    "lat": "23.73795"
+  },
+  {
+    "place": "Ekaterinburg,RU",
+    "lon": "60.60691",
+    "lat": "56.83713"
+  },
+  {
+    "place": "Hanoi,VN",
+    "lon": "105.84968",
+    "lat": "21.02885"
+  },
+  {
+    "place": "Hyderabad,IN",
+    "lon": "78.46276",
+    "lat": "17.40633"
+  },
+  {
+    "place": "Islamabad,PK",
+    "lon": "73.36002",
+    "lat": "34.57336"
+  },
+  {
+    "place": "Jakarta,ID",
+    "lon": "106.83539",
+    "lat": "-6.20906"
+  },
+  {
+    "place": "Karachi,PK",
+    "lon": "67.08691",
+    "lat": "24.86093"
+  },
+  {
+    "place": "Kathmandu,NP",
+    "lon": "85.32663",
+    "lat": "27.70628"
+  },
+  {
+    "place": "Kolkata,IN",
+    "lon": "88.36256",
+    "lat": "22.54929"
+  },
+  {
+    "place": "Lahore,PK",
+    "lon": "74.34175",
+    "lat": "31.53475"
+  },
+  {
+    "place": "Male,MV",
+    "lon": "73.52250",
+    "lat": "4.18967"
+  },
+  {
+    "place": "Manila,PH",
+    "lon": "121.00404",
+    "lat": "14.57422"
+  },
+  {
+    "place": "Mumbai,IN",
+    "lon": "72.86717",
+    "lat": "19.07216"
+  },
+  {
+    "place": "Nagpur,IN",
+    "lon": "79.09709",
+    "lat": "21.14156"
+  },
+  {
+    "place": "Delhi,IN",
+    "lon": "77.23165",
+    "lat": "28.65553"
+  },
+  {
+    "place": "Osaka,JP",
+    "lon": "135.50518",
+    "lat": "34.69757"
+  },
+  {
+    "place": "Seoul,KR",
+    "lon": "126.98188",
+    "lat": "37.56385"
+  },
+  {
+    "place": "Singapore,SG",
+    "lon": "103.83717",
+    "lat": "1.33594"
+  },
+  {
+    "place": "Thani,TH",
+    "lon": "99.82056",
+    "lat": "17.01023"
+  },
+  {
+    "place": "Tbilisi,GE",
+    "lon": "44.84875",
+    "lat": "41.69516"
+  },
+  {
+    "place": "Thimphu,BT",
+    "lon": "89.63407",
+    "lat": "27.47123"
+  },
+  {
+    "place": "Tokyo,JP",
+    "lon": "139.68875",
+    "lat": "35.68046"
+  },
+  {
+    "place": "Ulaanbaatar,MN",
+    "lon": "106.93820",
+    "lat": "47.95300"
+  },
+  {
+    "place": "Vientiane,LA",
+    "lon": "102.62469",
+    "lat": "17.97175"
+  },
+  {
+    "place": "Yangon,MM",
+    "lon": "96.16095",
+    "lat": "16.83240"
+  },
+  {
+    "place": "Yerevan,AM",
+    "lon": "44.50791",
+    "lat": "40.15447"
+  },
+  {
+    "place": "Changde,CN",
+    "lon": "111.70800",
+    "lat": "29.05562"
+  },
+  {
+    "place": "Changzhou,CN",
+    "lon": "119.96272",
+    "lat": "31.76728"
+  },
+  {
+    "place": "Chengdu,CN",
+    "lon": "104.06855",
+    "lat": "30.66419"
+  },
+  {
+    "place": "Dalian,CN",
+    "lon": "121.60441",
+    "lat": "38.90698"
+  },
+  {
+    "place": "Foshan,CN",
+    "lon": "113.11145",
+    "lat": "23.03303"
+  },
+  {
+    "place": "Fuzhou,CN",
+    "lon": "119.31782",
+    "lat": "26.14361"
+  },
+  {
+    "place": "Guangzhou,CN",
+    "lon": "113.28844",
+    "lat": "23.13663"
+  },
+  {
+    "place": "Guiyang,CN",
+    "lon": "106.69720",
+    "lat": "26.58409"
+  },
+  {
+    "place": "Haikou,CN",
+    "lon": "110.32985",
+    "lat": "20.02997"
+  },
+  {
+    "place": "Hohhot,CN",
+    "lon": "111.68774",
+    "lat": "40.82881"
+  },
+  {
+    "place": "Huainan,CN",
+    "lon": "117.00829",
+    "lat": "32.63262"
+  },
+  {
+    "place": "Jinan,CN",
+    "lon": "117.00749",
+    "lat": "36.67216"
+  },
+  {
+    "place": "Jinhua,CN",
+    "lon": "119.64758",
+    "lat": "29.10162"
+  },
+  {
+    "place": "Langfang,CN",
+    "lon": "116.71165",
+    "lat": "39.53123"
+  },
+  {
+    "place": "Lanzhou,CN",
+    "lon": "103.83973",
+    "lat": "36.05979"
+  },
+  {
+    "place": "Maoming,CN",
+    "lon": "110.90464",
+    "lat": "21.64307"
+  },
+  {
+    "place": "Nanchang,CN",
+    "lon": "115.89441",
+    "lat": "28.69092"
+  },
+  {
+    "place": "Qinhuangdao,CN",
+    "lon": "119.57228",
+    "lat": "39.96180"
+  },
+  {
+    "place": "Quanzhou,CN",
+    "lon": "118.62847",
+    "lat": "24.90011"
+  },
+  {
+    "place": "Quzhou,CN",
+    "lon": "118.88789",
+    "lat": "28.93857"
+  },
+  {
+    "place": "Shanghai,CN",
+    "lon": "121.56217",
+    "lat": "31.21278"
+  },
+  {
+    "place": "Shenyang,CN",
+    "lon": "123.44179",
+    "lat": "41.81346"
+  },
+  {
+    "place": "Suqian,CN",
+    "lon": "118.29433",
+    "lat": "33.95109"
+  },
+  {
+    "place": "Taizhou,CN",
+    "lon": "121.15111",
+    "lat": "28.85375"
+  },
+  {
+    "place": "Wuxi,CN",
+    "lon": "120.29967",
+    "lat": "31.55337"
+  },
+  {
+    "place": "Xianyang,CN",
+    "lon": "108.71993",
+    "lat": "34.33808"
+  },
+  {
+    "place": "Xining,CN",
+    "lon": "101.77694",
+    "lat": "36.63045"
+  },
+  {
+    "place": "Yiyang,CN",
+    "lon": "112.35856",
+    "lat": "28.57915"
+  },
+  {
+    "place": "Zhengzhou,CN",
+    "lon": "113.66859",
+    "lat": "34.76539"
+  },
+  {
+    "place": "Adelaide,AU",
+    "lon": "138.60140",
+    "lat": "-34.92906"
+  },
+  {
+    "place": "Auckland,NZ",
+    "lon": "174.78190",
+    "lat": "-36.86327"
+  },
+  {
+    "place": "Brisbane,AU",
+    "lon": "153.02560",
+    "lat": "-27.46950"
+  },
+  {
+    "place": "Canberra,AU",
+    "lon": "149.01388",
+    "lat": "-35.26882"
+  },
+  {
+    "place": "Guam,GU",
+    "lon": "144.80365",
+    "lat": "13.50748"
+  },
+  {
+    "place": "Melbourne,AU",
+    "lon": "144.96313",
+    "lat": "-37.81585"
+  },
+  {
+    "place": "Noumea,NC",
+    "lon": "166.45721",
+    "lat": "-22.25932"
+  },
+  {
+    "place": "Perth,AU",
+    "lon": "115.85866",
+    "lat": "-31.95057"
+  },
+  {
+    "place": "Sydney,AU",
+    "lon": "151.20776",
+    "lat": "-33.86854"
+  }
+]
