@@ -1,17 +1,5 @@
 # DigitalFootprint.earth
 
-Made by Sam Larsen-Disney & Yannis Panagis for the Hack for a Sustainable Future by [Esri](https://www.esri.com/en-us/home)
-
-## ⚡️ Quick Links:
-
-[Try the site](https://digitalfootprint.earth)
-[Github Repo](https://github.com/yp717/digitalfootprint-earth)
-🔨 Made By:
-[yannispanagis.com](https://yannispanagis.com/)
-[sld.codes](https://sld.codes/)
-
-In this hackathon, we wrote _exactly_ 7,172 lines of code and made 121 commits over the three weeks. We're hoping this is our new lucky number!
-
 ## Introduction
 
 The internet is responsible for nearly 3.7% of all global CO2 emissions. [1] This means that the internet produces more CO2 than every country on earth except the US and China. Further, in 2015 it was estimated that the internet produced approximately 600 million tonnes of CO2 a year. [2] BCG estimates that the internet produces almost 1 billion tonnes of greenhouse gases each year. [5] While these different sources vary in their estimates, the environmental impact of the internet still parallels that of plastic, as the production and incineration of plastic is responsible for 850 million tonnes of greenhouse gases in the atmosphere. Unfortunately, it is not held to the same standards or put under the same scrutiny that countries are as we move toward achieving the United Nation's 2025 Sustainability Goals. We can do a lot better.
